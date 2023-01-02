@@ -4,7 +4,7 @@
 
 #### Members: Greg Sevaston, Andre Dion, Samik Pradhan, Sree Chinta
 
-#### Supervisor: Suresh Lodha
+#### Supervisor: Andre Dion
 
 
 ## Link to Visualization:
